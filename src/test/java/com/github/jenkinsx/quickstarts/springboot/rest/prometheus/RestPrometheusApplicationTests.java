@@ -12,6 +12,7 @@ public class RestPrometheusApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		return 1;
 	}
 
 	
